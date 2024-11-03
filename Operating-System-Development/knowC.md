@@ -1,5 +1,37 @@
 # Operating System Development Roadmap (Advanced Path)
 
+## How to Follow?
+```mermaid
+flowchart TD
+    A[Start: C/ASM Expert] --> B[OS Development Fundamentals]
+    
+    B --> C[Boot Process]
+    B --> D[Memory Management]
+    B --> E[Process Management]
+    
+    C --> F[Core OS Components]
+    D --> F
+    E --> F
+    
+    F --> G[Kernel Development]
+    F --> H[File Systems]
+    F --> I[Device Drivers]
+    
+    G --> J[Advanced Topics]
+    H --> J
+    I --> J
+    
+    J --> K[Security]
+    J --> L[Networking]
+    J --> M[Performance Optimization]
+    
+    K --> N[Final Project]
+    L --> N
+    M --> N
+    
+    style A fill:#f9f,stroke:#333
+    style N fill:#9f9,stroke:#333
+```
 ## Prerequisites (Quick Review)
 - Advanced C programming concepts
 - x86/x64 Assembly fundamentals
