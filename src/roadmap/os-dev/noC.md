@@ -205,14 +205,14 @@ flowchart TD
 3. [Introduction to Operating Systems by Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
 4. [MIT OCW 6.828: Operating System Engineering](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
 
-## Books for Beginners
+## Books
 1. "C Programming Language" by Kernighan and Ritchie
 2. "Modern Operating Systems" by Andrew S. Tanenbaum
 3. "Operating Systems: Three Easy Pieces" by Remzi H. Arpaci-Dusseau
 4. "Computer Organization and Design" by Patterson and Hennessy
 5. "Operating System Concepts" by Silberschatz, Galvin, and Gagne
 
-## Research Papers (Beginner-Friendly)
+## Research Papers
 1. ["The Evolution of Operating Systems"](https://www.cs.princeton.edu/courses/archive/fall11/cos318/readings/evo-history.pdf)
 2. ["Understanding the Linux Virtual Memory Manager"](https://www.kernel.org/doc/gorman/pdf/understand.pdf)
 3. ["The Design of the Unix Operating System"](https://courses.cs.washington.edu/courses/cse451/04wi/papers/ritchie84evolution.pdf)
