@@ -1,5 +1,108 @@
 # GNU Emacs Cheatsheet
 
+## Emacs Commands Relation Diagram
+```mermaid
+graph LR
+    %% Main Categories with Styling
+    classDef category fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    classDef subcategory fill:#f3e5f5,stroke:#4a148c,stroke-width:1px
+    classDef command fill:#f1f8e9,stroke:#33691e,stroke-width:1px
+    
+    Emacs(Emacs Commands):::category
+    
+    %% File Operations Subgraph
+    subgraph Files[File Operations]
+        F[File Commands]:::subcategory
+        F1[C-x C-f: Open]:::command
+        F2[C-x C-s: Save]:::command
+        F3[C-x C-w: Save As]:::command
+        F4[C-x C-k: Close]:::command
+        F5[C-x C-c: Quit]:::command
+        
+        F --> F1 & F2 & F3 & F4 & F5
+    end
+    
+    %% Text Operations Subgraph
+    subgraph Text[Text Operations]
+        T[Text Commands]:::subcategory
+        T1[Selection: C-space]:::command
+        T2[Deselect: C-g]:::command
+        T3[Undo: C-/]:::command
+        
+        T --> T1 & T2 & T3
+    end
+    
+    %% Navigation Subgraph
+    subgraph Nav[Navigation]
+        N[Movement Commands]:::subcategory
+        N1[Lines: C-p/C-n]:::command
+        N2[Chars: C-b/C-f]:::command
+        N3[Words: M-b/M-f]:::command
+        N4[Line Start/End: C-a/C-e]:::command
+        
+        N --> N1 & N2 & N3 & N4
+    end
+    
+    %% Clipboard Subgraph
+    subgraph Clip[Clipboard]
+        C[Copy & Paste]:::subcategory
+        C1[Traditional]:::subcategory
+        C2[CUA Mode]:::subcategory
+        
+        CT1[Cut: C-w]:::command
+        CT2[Copy: M-w]:::command
+        CT3[Paste: C-y]:::command
+        
+        CM1[Cut: C-x]:::command
+        CM2[Copy: C-c]:::command
+        CM3[Paste: C-v]:::command
+        
+        C --> C1 & C2
+        C1 --> CT1 & CT2 & CT3
+        C2 --> CM1 & CM2 & CM3
+    end
+    
+    %% Windows Subgraph
+    subgraph Win[Windows & Buffers]
+        W[Window Commands]:::subcategory
+        W1[Split V: C-3]:::command
+        W2[Split H: C-2]:::command
+        W3[No Split: C-1]:::command
+        W4[Remove: C-0]:::command
+        W5[Other Window: C-o]:::command
+        
+        W --> W1 & W2 & W3 & W4 & W5
+    end
+    
+    %% Package Management Subgraph
+    subgraph Pack[Package Management]
+        P[Package Commands]:::subcategory
+        P1[List: M-x list-packages]:::command
+        P2[Describe: M-x describe-package]:::command
+        P3[Install: M-x package-install]:::command
+        
+        P --> P1 & P2 & P3
+    end
+    
+    %% Help System Subgraph
+    subgraph Help[Help System]
+        H[Help Commands]:::subcategory
+        H1[Key Help: C-h k]:::command
+        H2[Bindings: C-h b]:::command
+        
+        H --> H1 & H2
+    end
+    
+    %% Main connections
+    Emacs --> Files
+    Emacs --> Text
+    Emacs --> Nav
+    Emacs --> Clip
+    Emacs --> Win
+    Emacs --> Pack
+    Emacs --> Help
+```
+
 ## Key Notation
 - `C-` means hold the Control key
 - `M-` means hold the Alt key (Meta) or press and release Escape
