@@ -1,42 +1,7 @@
 # Advanced Operating System Development Roadmap
 
 ## How to Follow?
-```mermaid
-flowchart TD
-    A[Start: C/ASM Expert] --> B[OS Development Fundamentals]
-    
-    B --> C[Boot Process]
-    B --> D[Memory Management]
-    B --> E[Process Management]
-    
-    C --> F[Core OS Components]
-    D --> F
-    E --> F
-    
-    F --> G[Kernel Development]
-    F --> H[File Systems]
-    F --> I[Device Drivers]
-    
-    G --> J[Advanced Topics]
-    H --> J
-    I --> J
-    
-    J --> K[Security & Protection]
-    J --> L[Networking & IPC]
-    J --> M[Performance & Optimization]
-    J --> O[Advanced Architecture]
-    
-    K --> N[Final Projects]
-    L --> N
-    M --> N
-    O --> N
-    
-    N --> P[Research & Innovation]
-    
-    style A fill:#f9f,stroke:#333
-    style N fill:#9f9,stroke:#333
-    style P fill:#99f,stroke:#333
-```
+[![](https://mermaid.ink/img/pako:eNp1k8FuozAQhl_FcqU9pdpDTuFQiUDSpikJWnpak4NlhsQteJAx6bJV330NLqpRtRxG_uf_xh6P8DsVWAANaFnhm7hwbchznCtiv5BlxuqARD_DLCGbPw1ocyK3t3dkzY4ZieEKFTY1KEO2nSr4sOJVe3LlLq5HPmJrRENSjQLaCXBWzBKoUfck4YqfYdhj5m_YZ9V3wMVoxLYsQg3EthVh3aCy1HRO7AAnNr5wcTum7tketILKv9bJBx7YVlZAsr41ULcza8dskRRAYi2voOcTuB-RRxYWV64EFOQZGykm5sG5Tux84eLjmNqzDESnpenJj2GKBoSRqE4-88QOYN5Qv0p1ttQujWZ2wlLQJep6aML6x8bIWv7l3_Y5fnUaanGRw1mdhtmd9iN5sBNRvBoaerHQdKUnZzqR-OLoCxcPYyplv6AFbo8bOlcKr35fLramt-MPSSmrKrgpV-WiNRpfIbhZLpc-cvhEVuXqf0g6IfNd6ILWYCckC_sg3oeCnJqL_eVyGthlASXvKpPTXH1YlHcGs14JGhjdwYJq7M6XSXRNwQ3Ekp81r6dkw9VvRCtL-0zg4x9Pcgq8?type=png)](https://mermaid.live/edit#pako:eNp1k8FuozAQhl_FcqU9pdpDTuFQiUDSpikJWnpak4NlhsQteJAx6bJV330NLqpRtRxG_uf_xh6P8DsVWAANaFnhm7hwbchznCtiv5BlxuqARD_DLCGbPw1ocyK3t3dkzY4ZieEKFTY1KEO2nSr4sOJVe3LlLq5HPmJrRENSjQLaCXBWzBKoUfck4YqfYdhj5m_YZ9V3wMVoxLYsQg3EthVh3aCy1HRO7AAnNr5wcTum7tketILKv9bJBx7YVlZAsr41ULcza8dskRRAYi2voOcTuB-RRxYWV64EFOQZGykm5sG5Tux84eLjmNqzDESnpenJj2GKBoSRqE4-88QOYN5Qv0p1ttQujWZ2wlLQJep6aML6x8bIWv7l3_Y5fnUaanGRw1mdhtmd9iN5sBNRvBoaerHQdKUnZzqR-OLoCxcPYyplv6AFbo8bOlcKr35fLramt-MPSSmrKrgpV-WiNRpfIbhZLpc-cvhEVuXqf0g6IfNd6ILWYCckC_sg3oeCnJqL_eVyGthlASXvKpPTXH1YlHcGs14JGhjdwYJq7M6XSXRNwQ3Ekp81r6dkw9VvRCtL-0zg4x9Pcgq8)
 
 ## Prerequisites Review & Deep Dive
 ### Advanced C Programming
