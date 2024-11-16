@@ -115,3 +115,52 @@
    - Interactive tutorials
    - Practice exercises
    - Immediate feedback
+  
+## Online Platforms
+1. [LeetCode](https://leetcode.com/)
+   - Structured problems
+   - Company-specific lists
+   - Discussion forums
+
+2. [AlgoExpert](https://www.algoexpert.io/)
+   - Curated problems
+   - Video explanations
+   - Interview preparation
+
+3. [InterviewBit](https://www.interviewbit.com/)
+   - Programming interview focus
+   - Company-wise problems
+   - Mock interviews
+
+## Websites
+1. [Visualgo](https://visualgo.net/)
+   - Algorithm visualization
+   - Interactive learning
+   - Step-by-step execution
+
+2. [USACO Guide](https://usaco.guide/)
+   - Competitive programming
+   - Comprehensive tutorials
+   - Practice problems
+
+## YouTube Channels
+1. [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+   - Detailed explanations
+   - Visual presentations
+   - Interview preparation
+
+2. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+   - Algorithm explanations
+   - Mathematical approach
+   - Theoretical foundation
+
+## Practice Platforms
+1. [AtCoder](https://atcoder.jp/)
+   - Regular contests
+   - Various difficulty levels
+   - Active community
+
+2. [SPOJ](https://www.spoj.com/)
+   - Classical problems
+   - Judge system
+   - Multiple languages
