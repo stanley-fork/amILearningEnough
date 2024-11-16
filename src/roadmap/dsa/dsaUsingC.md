@@ -1,8 +1,6 @@
 # Table of Contents
 1. [C Language DSA Roadmap](#c-language-dsa-roadmap)
 2. [C Language DSA Resources](#c-language-dsa-resources)
-3. [Language-Agnostic DSA Roadmap](#language-agnostic-dsa-roadmap)
-4. [Language-Agnostic DSA Resources](#language-agnostic-dsa-resources)
 
 # C Language DSA Roadmap
 
