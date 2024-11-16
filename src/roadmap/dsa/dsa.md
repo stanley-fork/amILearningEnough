@@ -5,36 +5,7 @@
 # Language-Agnostic DSA Roadmap
 
 ## Learning Path Visualization
-
-```mermaid
-graph TD
-    A[Start] --> B[Programming Basics]
-    B --> C[Basic Data Structures]
-    C --> D[Basic Algorithms]
-    D --> E[Advanced Data Structures]
-    E --> F[Advanced Algorithms]
-    F --> G[Problem Solving Patterns]
-    G --> H[Specialized Topics]
-
-    subgraph "Foundation"
-    B
-    end
-
-    subgraph "Core Concepts"
-    C
-    D
-    end
-
-    subgraph "Advanced Topics"
-    E
-    F
-    end
-
-    subgraph "Mastery"
-    G
-    H
-    end
-```
+[![](https://mermaid.ink/img/pako:eNp9kstuwjAQRX_F8hp-IItKIQ9YFBUprJqwGOIhsRTbkR9IFPHvdZyYLtrizdiec0dzx77TVjGkCe00jD055o0kfqV1ZUHbE1mv38imPmjl80Jw2ZENGN4a8nEhqbyRd5Cdgw5Ps24TBFkdIJKDBVJZ7VrrNJqFyQKTL0w6dEpz24uYzkO6qFN2Bdki-6dKEbDyB_tVqAzEdmr-PKAglRquk4EDWItaRmwbsF1djdhyGPiXr3VUo_fogRkx7jyPp6GlcpKB5Uo2dLE8B5TsDzxTGkmmfIOjNVGRLUZfCZ-25laitFisvZLuwXh_tyjZzmH3lNAVFagFcOaf_T5dN9T2KLChid8yvIAb7CR_eBScVdVNtjTxL4ArqpXr-nhwo58F5hym30GTCwzG344gP5WK58c3ZK7B-A?type=png)](https://mermaid.live/edit#pako:eNp9kstuwjAQRX_F8hp-IItKIQ9YFBUprJqwGOIhsRTbkR9IFPHvdZyYLtrizdiec0dzx77TVjGkCe00jD055o0kfqV1ZUHbE1mv38imPmjl80Jw2ZENGN4a8nEhqbyRd5Cdgw5Ps24TBFkdIJKDBVJZ7VrrNJqFyQKTL0w6dEpz24uYzkO6qFN2Bdki-6dKEbDyB_tVqAzEdmr-PKAglRquk4EDWItaRmwbsF1djdhyGPiXr3VUo_fogRkx7jyPp6GlcpKB5Uo2dLE8B5TsDzxTGkmmfIOjNVGRLUZfCZ-25laitFisvZLuwXh_tyjZzmH3lNAVFagFcOaf_T5dN9T2KLChid8yvIAb7CR_eBScVdVNtjTxL4ArqpXr-nhwo58F5hym30GTCwzG344gP5WK58c3ZK7B-A)
 
 ## Detailed Breakdown
 
