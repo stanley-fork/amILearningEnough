@@ -1,4 +1,4 @@
-# Comprehensive Computer Architecture Resources
+# Computer Architecture Resources
 
 ## Essential Books
 1. "Computer Organization and Design: The Hardware/Software Interface (RISC-V Edition)"
