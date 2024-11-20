@@ -178,8 +178,6 @@
    - [CS107 Practice](https://web.stanford.edu/class/archive/cs/cs107/cs107.1216/practice/)
    - [CS110 Problems](https://web.stanford.edu/class/archive/cs/cs110/cs110.1204/practice-problems/)
 
-## Extended Course List (Continuing from previous list)
-
 ### Advanced Architecture & Computer Systems
 26. University of Washington CSE351 - The Hardware/Software Interface
     - Course Materials: [Course Website](https://courses.cs.washington.edu/courses/cse351/)
