@@ -12,6 +12,16 @@ Understanding low-level programming empowers you to:
 * **Debug and troubleshoot complex software issues:**  Develop a deeper understanding of how programs execute, enabling you to identify and fix difficult bugs.
 * **Enhance your problem-solving skills:** Low-level programming challenges you to think critically and creatively about how to achieve specific tasks with limited resources.
 
+## Star History
+
+<a href="https://star-history.com/#mohitmishra786/amILearningEnough&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mohitmishra786/amILearningEnough&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mohitmishra786/amILearningEnough&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mohitmishra786/amILearningEnough&type=Date" />
+ </picture>
+</a>
+
 ## Contributing
 Contributions are welcome! If you have suggestions for improving this roadmap or adding resources, please feel free to open a pull request.
 
