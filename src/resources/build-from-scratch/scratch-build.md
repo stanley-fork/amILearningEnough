@@ -59,6 +59,4 @@
 - [Database Development Tutorials - YouTube](https://www.youtube.com/playlist?list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD)
 - [How to Create a Database - YouTube](https://www.youtube.com/watch?v=1X8ejpWLEso)
 
---- 
-
 Let me know if you need more!
