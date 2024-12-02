@@ -1,5 +1,3 @@
----
-
 ### 1. **Build Your Own Operating System**
 - [Build Your Own Operating System - YouTube](https://www.youtube.com/watch?v=YbXHU7W7Its)
 - [Create your own Operating System from scratch - YouTube](https://www.youtube.com/watch?v=3i33nDMbs-w)
