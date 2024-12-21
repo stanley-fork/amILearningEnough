@@ -5,6 +5,7 @@ site/
 venv/
 env/
 .env/
+amILearning/
 
 # Python cache files
 __pycache__/
