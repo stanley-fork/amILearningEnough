@@ -122,6 +122,10 @@
    - Link: https://www.qemu.org/
    - Purpose: Hardware emulation
 
+9. Build an 8-bit computer from scratch
+   - Link: https://eater.net/8bit/pc
+   - Purpose: Learning Computer Architecture
+
 ## Specialized Topics
 
 1. Quantum Computing Architecture
