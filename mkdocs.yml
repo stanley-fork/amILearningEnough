@@ -73,9 +73,9 @@ nav:
       - C: resources/programming/c.md
       - Emacs: resources/programming/emacs.md
     - Reverse Engineering:
-     - Reverse Engineering and Binary Exploitation: resources/reverse-engineering/re-and-be.md
+      - Reverse Engineering and Binary Exploitation: resources/reverse-engineering/re-and-be.md
     - University Courses: 
-     - Courses: resources/univCourses/univ.md
+      - Courses: resources/univCourses/univ.md
   - Roadmaps:
     - DSA: 
       - Overview: roadmap/dsa/dsa.md
@@ -86,4 +86,4 @@ nav:
       - With C: roadmap/os-dev/knowC.md
       - Without C: roadmap/os-dev/noC.md
     - Reverse Engineering: 
-     - RE: roadmap/reverse-engineering/reverse-engineering.md
+      - RE: roadmap/reverse-engineering/reverse-engineering.md
