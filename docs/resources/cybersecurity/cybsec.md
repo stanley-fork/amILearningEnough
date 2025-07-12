@@ -55,7 +55,7 @@
 - [Stanford Online](https://online.stanford.edu) - Stanford University's online courses
 - [Cybrary](https://www.cybrary.it) - Cybersecurity-focused training
 - [SANS](https://www.sans.org) - Professional cybersecurity training
-- [W3Schools](https://www.w3schools.co) - Web development tutorials
+- [W3Schools](https://www.w3schools.com) - Web development tutorials
 
 ### Practice Platforms
 - [TryHackMe](https://tryhackme.com) - Guided cybersecurity challenges

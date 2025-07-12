@@ -79,7 +79,7 @@
 - [NNPACK](https://github.com/Maratyszcza/NNPACK)
 
 #### Research Papers
-- "Random Search for Hyper-Parameter Optimization" - [arXiv:1803.09820](https://arxiv.org/abs/1803.09820)
+- "Random Search for Hyper-Parameter Optimization" - [Random Search for Hyper-Parameter Optimization](https://jmlr.org/papers/v13/bergstra12a.html)
 - "A Disciplined Approach to Neural Network Hyper-Parameters" - [arXiv:1803.09820](https://arxiv.org/abs/1803.09820)
 - "An Analysis of Deep Neural Network Models for Practical Applications" - [arXiv:1605.07678](https://arxiv.org/abs/1605.07678)
 

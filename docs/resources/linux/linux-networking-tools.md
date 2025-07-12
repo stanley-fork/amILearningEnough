@@ -3,7 +3,7 @@
 This comprehensive cheatsheet covers a wide range of Linux networking tools, providing a one-stop reference for Linux users.
 
 ## `ping`
-The `ping` command is used to check if a remote computer is connected and making HTTP requests. It sends ICMP echo request packets to the target host and waits for a response.
+The `ping` command is used to check if a remote computer is reachable on a network. It sends ICMP echo request packets to the target host and waits for a response.
 
 **Usage Examples:**
 - `ping <hostname>`: Sends ICMP echo requests to the specified hostname.
@@ -423,17 +423,17 @@ The `python -m SimpleHTTPServer` command can be used to quickly serve files from
 * `python -m SimpleHTTPServer --help`: Displays the available options for the SimpleHTTPServer module.
 
 
-## ipealc
+## ipcalc
 
-`ipealc` is a command-line tool used to calculate IP addresses and subnet information.
+`ipcalc` is a command-line tool used to calculate IP addresses and subnet information.
 
 **Usage Examples:**
 
-* `ipealc <ip_address> <subnet_mask>`: Calculates the network address, broadcast address, and available host range for the specified IP address and subnet mask.
-* `ipealc -c <cidr_notation>`: Calculates the subnet mask and other information based on the CIDR notation.
-* `ipealc -n <network_address> <prefix_length>`: Calculates the network information based on the network address and prefix length.
-* `ipealc -h`: Displays the help menu for the ipealc tool, including all available options and usage examples.
-* `ipealc -v`: Displays the version information for the ipealc tool.
+* `ipcalc <ip_address> <subnet_mask>`: Calculates the network address, broadcast address, and available host range for the specified IP address and subnet mask.
+* `ipcalc -c <cidr_notation>`: Calculates the subnet mask and other information based on the CIDR notation.
+* `ipcalc -n <network_address> <prefix_length>`: Calculates the network information based on the network address and prefix length.
+* `ipcalc -h`: Displays the help menu for the ipcalc tool, including all available options and usage examples.
+* `ipcalc -v`: Displays the version information for the ipcalc tool.
 
 
 ## nsenter

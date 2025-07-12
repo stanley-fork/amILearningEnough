@@ -50,7 +50,7 @@ lscpu            # CPU architecture information
 cpu-x            # CPU identification tool
 
 # CPU Performance Monitoring
-numact1          # NUMA topology and statistics
+numactl          # NUMA topology and statistics
 lstopo           # Hardware topology viewer
 dmidecode        # DMI table decoder
 ```
@@ -64,7 +64,7 @@ dmidecode        # Memory hardware information
 
 # Memory Performance Tools
 lstopo           # Memory topology visualization
-numact1          # NUMA memory statistics
+numactl          # NUMA memory statistics
 ```
 
 ### Operating System Level Tools
@@ -250,7 +250,7 @@ schedtool -a 0-3 1234
 schedtool -h
 ```
 
-#### numact1
+#### numactl
 ```bash
 # Show NUMA topology
 numactl --hardware
