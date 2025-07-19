@@ -1,4 +1,4 @@
-# Table of Content
+# Table of Contents
 1. [Language-Agnostic DSA Roadmap](#language-agnostic-dsa-roadmap)
 2. [Language-Agnostic DSA Resources](#language-agnostic-dsa-resources)
 

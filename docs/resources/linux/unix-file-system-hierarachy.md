@@ -16,7 +16,7 @@ The `/etc` directory is the home for system configuration files, including `cron
 
 ## Essential System Binaries (`/sbin`)
 
-The `/sbin` directory contains essential system binaries, which are executable files for system administration commands, such as `fdisk` (partition management), `fsck` (file system check and repair), `getty` (login process), `halt` (system shutdown), `ifconfig` (network interface configuration), `init` (system initialization), `mkfs` (file system creation), `mkswaP` (swap space creation), `reboot` (system reboot), and `route` (network routing configuration).
+The `/sbin` directory contains essential system binaries, which are executable files for system administration commands, such as `fdisk` (partition management), `fsck` (file system check and repair), `getty` (login process), `halt` (system shutdown), `ifconfig` (network interface configuration), `init` (system initialization), `mkfs` (file system creation), `mkswap` (swap space creation), `reboot` (system reboot), and `route` (network routing configuration).
 
 ## Read-Only User Application Support Data & Binaries (`/usr`)
 
