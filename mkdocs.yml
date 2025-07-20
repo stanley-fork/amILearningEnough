@@ -1,6 +1,7 @@
 site_name: Am I Learning Enough
 theme:
   name: material
+  custom_dir: docs/overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -87,3 +88,14 @@ nav:
       - Without C: roadmap/os-dev/noC.md
     - Reverse Engineering: 
       - RE: roadmap/reverse-engineering/reverse-engineering.md
+
+extra_javascript:
+  - https://gc.zgo.at/count.js
+
+extra_css:
+  - stylesheets/goatcounter.css
+
+extra:
+  goatcounter:
+    site: learningresource
+    domain: learningresource.goatcounter.com
