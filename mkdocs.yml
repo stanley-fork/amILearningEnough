@@ -18,6 +18,8 @@ nav:
     - Cheatsheets: 
       - RISC-V 32-bit: resources/cheatsheets/riscv-32bit.md
     - Computer Architecture: resources/computerArchitecture/compArch.md
+    - Scientists:
+      - Kepler: resources/scientists/Keplers.md
     - Database:
       - Reading Papers: resources/database/research-papers.md
     - Cybersecurity:
