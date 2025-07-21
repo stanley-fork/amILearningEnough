@@ -90,6 +90,8 @@ nav:
       - Without C: roadmap/os-dev/noC.md
     - Reverse Engineering: 
       - RE: roadmap/reverse-engineering/reverse-engineering.md
+    - System Programming:
+      - System Programming: roadmap/system-programming/ultimate-roadmap.md
 
 extra_javascript:
   - https://gc.zgo.at/count.js
