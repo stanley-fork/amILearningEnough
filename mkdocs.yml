@@ -18,6 +18,9 @@ nav:
     - Cheatsheets: 
       - RISC-V 32-bit: resources/cheatsheets/riscv-32bit.md
     - Computer Architecture: resources/computerArchitecture/compArch.md
+    - Embedded Systems:
+      - Embedded Development: resources/embedded/embedded-systems.md
+      - RTOS Guide: resources/embedded/rtos.md
     - Scientists:
       - Kepler: resources/scientists/Keplers.md
     - Database:
