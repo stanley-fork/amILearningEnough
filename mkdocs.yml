@@ -21,6 +21,7 @@ nav:
     - Embedded Systems:
       - Embedded Development: resources/embedded/embedded-systems.md
       - RTOS Guide: resources/embedded/rtos.md
+    - Networking: resources/networking/networking.md
     - Scientists:
       - Kepler: resources/scientists/Keplers.md
     - Database:
@@ -75,13 +76,6 @@ nav:
       - System Calls: resources/operatingSystem/systemCalls.md
       - Thrashing: resources/operatingSystem/thrashing.md
       - Von Neumann Architecture: resources/operatingSystem/vonNeumannArchitecture.md
-    - Programming:
-      - C: resources/programming/c.md
-      - Emacs: resources/programming/emacs.md
-    - Reverse Engineering:
-      - Reverse Engineering and Binary Exploitation: resources/reverse-engineering/re-and-be.md
-    - University Courses: 
-      - Courses: resources/univCourses/univ.md
   - Roadmaps:
     - DSA: 
       - Overview: roadmap/dsa/dsa.md
